@@ -1,4 +1,5 @@
 #!/bin/bash
+#passing the first variable as image name and second variable as version name, 0 is for file name
 echo $0
 echo $1
 echo $2
